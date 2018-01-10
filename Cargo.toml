@@ -1,0 +1,8 @@
+[package]
+name = "rust_randbasel"
+version = "0.1.0"
+authors = ["MeksPwnschlager <accounts@meks.io>"]
+
+[dependencies]
+rand = "*"
+gcd = "1.1.0"
